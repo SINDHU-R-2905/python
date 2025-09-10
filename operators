@@ -1,0 +1,26 @@
+1.Addition:
+
+a = int(input('enter a number:'))
+b = int(input("enter another number:"))
+print(a+b)
+
+
+2.subtraction:
+
+a = int(input('enter a number:'))
+b = int(input("enter another number:"))
+print(a-b)
+
+
+3.multiplication:
+
+a = int(input('enter a number:'))
+b = int(input("enter another number:"))
+print(a*b)
+
+4.division:
+
+
+a = int(input('enter a number:'))
+b = int(input("enter another number:"))
+print(a/b)
