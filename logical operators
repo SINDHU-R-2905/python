@@ -1,0 +1,29 @@
+AND operators:
+
+i/p  1        -         i/p  2            -  o/p
+
+1.false                  1.false            1.false
+2.true                   2.false            2.false
+3.false                  3.true             3.false
+4.true                   4.true             4.true
+
+
+OR operators:
+
+i/p  1     -   i/p  2  -  o/p
+
+1.false        1.false    1.false
+2.true         2.false    2.true
+3.false        3.true     3.true
+4.true         4.true     4.true
+
+
+NOT operators:
+
+
+i/p      -     o/p
+1.false      1.true
+1.true       2.false
+
+
+
