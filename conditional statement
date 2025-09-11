@@ -1,0 +1,24 @@
+1.if statement:
+
+if(10>5):
+    print('True')
+    print('Hello')
+
+
+  2.if else statement:
+
+a = 12
+if a == 10:
+    print('Equal')
+else:
+    print('Not equal')
+
+  3.elif clause:
+
+a = 10
+if a==10 :
+    print('Equal')
+elif a==9:
+    print('a is 9')
+else:
+    print('Not equal')
