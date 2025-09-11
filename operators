@@ -24,3 +24,18 @@ print(a*b)
 a = int(input('enter a number:'))
 b = int(input("enter another number:"))
 print(a/b)
+
+
+5.floor division:
+
+a = int(input('Enter a number1:'))
+b = int(input("Enter a number2:"))
+print(a//b)
+// - its return integer value
+
+
+6.remainder:
+
+a = int(input('Enter a number1:'))
+b = int(input("Enter a number2:"))
+print(a%b)
