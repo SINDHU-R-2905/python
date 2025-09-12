@@ -6,4 +6,13 @@ while i<10:
     i+=1
 
 for loops:
+print even number:
+for i in range(0,10,2):
+print(i)
+
+print odd number:
+for i in range(0,10):
+print(i)
+
+
 
