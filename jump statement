@@ -13,3 +13,12 @@ for i in range(0,10):
     print(i)
 
 
+3.loop else:
+for i in range(0,10):
+    if i==10:
+        break
+    print(i)
+else:
+    print('Else clause is executed')
+
+
