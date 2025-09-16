@@ -57,5 +57,5 @@ print(lst)
 print(element)
 
 (xi)
-lst  = list('Troll Geek') //-->list()
+lst  = list('Troll Geek') //-->list of constructor()
 print(lst)"""
