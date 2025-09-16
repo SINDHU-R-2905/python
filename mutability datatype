@@ -30,6 +30,12 @@ lst = [1,2,3]  //-->append()
 lst.append(4)
 print(lst) 
 
+
+(v)extend()
+lst = [1,2,3]
+lst.extend((4,5,6))  //-->extend()
+print(lst)
+
 (v)insert()
 lst = [1,2,3]
 lst.insert(0,0)
