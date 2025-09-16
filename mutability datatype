@@ -55,3 +55,7 @@ lst = [1,2,3,4]
 element = lst.pop(3)
 print(lst)
 print(element)
+
+(xi)
+lst  = list('Troll Geek') //-->list()
+print(lst)"""
