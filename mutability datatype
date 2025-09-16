@@ -29,3 +29,8 @@ print(min(lst))
 lst = [1,2,3]  //-->append()
 lst.append(4)
 print(lst) 
+
+(v)insert()
+lst = [1,2,3]
+lst.insert(0,0)
+print(lst)
