@@ -30,13 +30,28 @@ lst = [1,2,3]  //-->append()
 lst.append(4)
 print(lst) 
 
-
-(v)extend()
+(v)lst = [1,2,3]
+lst.insert(0,0)   //-->insert()
+print(lst)
+  
+(vi)extend()
 lst = [1,2,3]
 lst.extend((4,5,6))  //-->extend()
 print(lst)
 
-(v)insert()
-lst = [1,2,3]
-lst.insert(0,0)
+(vii)lst = [1,2,3]
+lst.append((4,5,6))   //--->nested list
 print(lst)
+
+(ix)lst = [1,2,3,1]    //-->remove()
+lst.remove(1)
+print(lst)
+
+(x)lst = [1,2,3]    //-->pop()
+lst.pop(0)
+print(lst)
+
+lst = [1,2,3,4]
+element = lst.pop(3)
+print(lst)
+print(element)
