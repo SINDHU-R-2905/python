@@ -1,0 +1,31 @@
+1.Traversal:
+
+lst = [1,2,3]
+for i in lst:
+    print(i)
+
+-----------------------------------------
+
+    lst[10,30,40,60]
+print((10*2)in lst)
+print(lst[-1]+lst[1])
+
+------------------------------------------
+
+2.list functions (sorting)
+(i)length() 
+lst = [1,2,3]
+print(len(lst))
+
+(ii)maximum()
+lst = [1,2,3]    //-->max()
+print(max(lst))  
+
+(iii)minimum()
+lst = [1,2,3]   //-->min()
+print(min(lst))
+
+(iv)append()
+lst = [1,2,3]  //-->append()
+lst.append(4)
+print(lst) 
