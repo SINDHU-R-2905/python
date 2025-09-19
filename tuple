@@ -1,0 +1,23 @@
+1.tup = (1,2,3)
+print(tup[0])
+
+2.tup = (1,2,3)   //--->max()
+print(max(tup))
+
+3.tup = (1,2,3,4)  //--->min()
+print(min(tup))
+
+4.tup = (1,2,3,4)    //--->len()
+print(len(tup))
+
+5.tup =(1,2,3,4)   
+for i in tup:
+    print(i)
+
+6.tup = (10,60)
+print(max(tup))
+tup.append([70])
+print(tup)
+
+output:60
+[10,60,70]
